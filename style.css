@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>softmblog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>softmblog</h1>
+  <p>mantis + ocelli + ootheca</p>
+</header>
+
+<main>
+
+  <article>
+    <time datetime="2026-08-17">17 August 2026</time>
+    <h2>Starting this website</h2>
+
+    <p>
+      First entry. This is where the content goes.
+    </p>
+  </article>
+
+  <!-- add newer entries ABOVE older entries -->
+
+</main>
+
+</body>
+</html>
